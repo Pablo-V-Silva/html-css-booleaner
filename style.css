@@ -58,3 +58,19 @@ h1 {
     position: relative;
     right: 20px;
 }
+
+table {
+    width: 100%;
+}
+
+.up_title_t {
+    background-color:rgb(41, 106, 245)
+}
+
+thead {
+    color:white;
+}
+
+.up.title {
+    background-color: rgb(41, 106, 245);
+}
