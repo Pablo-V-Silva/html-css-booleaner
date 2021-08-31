@@ -1,7 +1,7 @@
 .limiti {
     width: 55%;
     height: 100%;
-    background-color: green;
+    /* background-color: green; */
     margin:auto;
 }
 .title {
@@ -70,4 +70,50 @@ table {
 
 thead {
     color:white;
+}
+
+tbody {
+    width: 100%;
+}
+
+.dimen {
+    width:300px;
+}
+
+.content {
+    background-color: rgb(145, 230, 236);
+}
+
+.spam_pubb {
+    margin-bottom:10px;
+    font-size: 20px;
+}
+
+.monitor {
+    background-image: url(./img/monitor.jpg);
+    width: 312px;
+    height:208px;
+} 
+
+.monitor_scrypt {
+    color: white;
+    font-size: 1.7rem;
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+
+.graph {
+    background-image: url(./img/graph.jpg);
+    width: 312px;
+    height:208px;
+    margin-top: 10px;
+} 
+
+.graph_scrypt {
+    color: white;
+    font-size: 1.7rem;
+    position: relative;
+    left: 15px;
+    top: 15px;
 }
