@@ -61,16 +61,13 @@ h1 {
 
 table {
     width: 100%;
+    border-spacing:0;
 }
 
-.up_title_t {
+.up_title {
     background-color:rgb(41, 106, 245)
 }
 
 thead {
     color:white;
-}
-
-.up.title {
-    background-color: rgb(41, 106, 245);
 }
