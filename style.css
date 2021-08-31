@@ -10,7 +10,7 @@
     margin:auto;
     background-color: rgb(101, 180, 253);
     background-image: url(./img/pattern.png);
-    background-position: 120px 340px;
+    background-size:500px 250px;
     position: relative;
 }
 
