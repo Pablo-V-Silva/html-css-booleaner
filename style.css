@@ -1,0 +1,60 @@
+.limiti {
+    width: 55%;
+    height: 100%;
+    background-color: green;
+    margin:auto;
+}
+.title {
+    width: 100%;
+    height: 170px;
+    margin:auto;
+    background-color: rgb(101, 180, 253);
+    background-image: url(./img/pattern.png);
+    background-position: 120px 340px;
+    position: relative;
+}
+
+.logo {
+    width: 25%;
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
+
+.scritto {
+    color:grey;
+}
+
+.booleaner {
+    color: rgb(41, 106, 245);
+}
+
+h1 {
+    position: relative;
+    bottom:10px;
+    font-size: 2.5rem;
+}
+.credenziali_editor {
+    position: relative;
+    bottom:35px;
+}
+
+.tim_img {
+    position: relative;
+    bottom: 20px;
+}
+
+.photo_maker {
+    font-size: 0.8rem;
+    position: relative;
+    bottom:10px;
+}
+
+.evidenziata {
+    background-color: yellow;
+}
+
+.list_item {
+    position: relative;
+    right: 20px;
+}
